@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Kang"
-  avatar : "/assets/images/avatar.png"
+  avatar : "/assets/images/profile.png"
   bio    : "FastAPI · LLM · ESG · MSA"
   links:
     - label: "Website"
