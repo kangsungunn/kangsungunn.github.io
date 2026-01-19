@@ -1,6 +1,6 @@
 ---
 title: "블로그를 시작하며"
-date: 2024-12-19
+date: 2026-01-19
 categories:
   - 일상
 tags:

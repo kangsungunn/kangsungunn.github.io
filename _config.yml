@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Kang"
   avatar : "/assets/images/profile.png"
-  bio    : "FastAPI · LLM · ESG · MSA"
+  bio    : "나의 개발일지"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -73,7 +73,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/kangsungunn"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
